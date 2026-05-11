@@ -1,7 +1,7 @@
 {
   "tokens": [
-    "A#Aaa10B345!@#"
+    "A#Aaa10B345!@#", "A#1Bg2C4!@#"
     
   ],
-  "revoked": ["TEST","A#1Bg2C4!@#"]
+  "revoked": ["TEST"]
 }
